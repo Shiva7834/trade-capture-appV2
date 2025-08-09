@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^18.2.0",
